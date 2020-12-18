@@ -1,0 +1,10 @@
+name: CreeperOnPlayer
+version: 1.0
+author: Outgam3r
+main: me.Outgam3r.CreeperOnPlayer.Main
+description: Spawn 10 creepers on yourself with a simple command!
+
+commands:
+  creepspawn
+    aliases: [cs]
+    description: /cs to spawn 10 creepers
